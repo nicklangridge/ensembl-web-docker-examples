@@ -1,4 +1,4 @@
-## Custom database example
+## Additional species example
 
 This example shows how to configure an Ensembl instance to include an additional species, in this case Anopheles gambaie.
 
